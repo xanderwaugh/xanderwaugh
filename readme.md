@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/xander-waugh-44b50022b/" target="blank">
     Linked In
   </a>
+  <a href="https://dev.to/xanderwaugh" target="blank">
+    DEV.to
+  </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
