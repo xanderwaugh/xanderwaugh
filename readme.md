@@ -3,8 +3,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/xanderwaugh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xandykandy" height="64" width="64" />
+  <a href="https://twitter.com/xanderwaugh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xandykandy" height="64" width="64" />
+  </a>
+  <a href="https://www.linkedin.com/in/xander-waugh-44b50022b/" target="blank">
+    Linked In
   </a>
 </p>
 
